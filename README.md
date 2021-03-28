@@ -1,1 +1,1 @@
-# workshop-build-app-vue
+#Workshop - Construindo uma aplicação web do zero 
